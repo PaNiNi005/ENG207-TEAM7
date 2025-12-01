@@ -1,6 +1,5 @@
 
-**ENGSE207 – Software Architecture**  
-**Team 7**
+**ENGSE207 – Software Architecture**  **Team 7**
 
 ### 👥 Team Members
 
