@@ -82,9 +82,10 @@
 - สามารถนำหลักการนี้ไปใช้กับโครงงานอื่นในอนาคตได้อีกด้วย  
 
 ## Slide Presentation
-
+https://www.canva.com/design/DAG5ho7TcAc/Q7En2sMtaiiW5EJWilqRVg/edit?utm_content=DAG5ho7TcAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
+
 
 
 
